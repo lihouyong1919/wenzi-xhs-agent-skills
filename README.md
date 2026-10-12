@@ -1,8 +1,8 @@
-# WorkBuddy XHS Skills
+# 文子的小红书工作流
 
-![WorkBuddy 小红书从 0 到 1000 内容运营工作流](./assets/hero-workbuddy-xhs.png)
+![文子的小红书从 0 到 1000 内容运营工作流](./assets/hero-workbuddy-xhs.png)
 
-> 让 Agent 帮你跑完整套小红书冷启动：从定位、选题、改稿、图文规划，到发布排期和数据复盘。
+> 文子的小红书 Agent Skills：让 Agent 帮你跑完整套小红书冷启动，从定位、选题、改稿、图文规划，到发布排期和数据复盘。
 
 这不是“再写一篇小红书文案”的提示词合集，而是一套可以安装到 **Codex / Claude / WorkBuddy** 的内容运营工作流。
 
